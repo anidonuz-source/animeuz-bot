@@ -1,7 +1,7 @@
 <?php
 ob_start();
-define('API_TOKEN', '7684259607:AAF03uFLiEeEeR1XWjiw4Rc7QdpF3lLC4Xg');
-$ITACHI_UCHIHA_SONO_SHARINGAN = "2025400572";
+define('API_TOKEN', '8680183306:AAEkSi6qSehN51LxaDxe_Ue0rqJbcvuDkaM');
+$ITACHI_UCHIHA_SONO_SHARINGAN = "7611914967";
 /*
 Ushbu kod 30.03.2025 10:10 da @ITACHI_UCHIHA_SONO_SHARINGAN  tomonidan tarqatildi kod mukammal tarzda tuzilgan ammo bu kodda muammolar mavjud !
 Muammolar tog'irlangan kod @UZ_IT_CENTER kanalining VIP kanaliga joylanadi !
